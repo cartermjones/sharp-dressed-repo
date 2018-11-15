@@ -1,4 +1,10 @@
-﻿using System;
+/*
+    This is a number guessing game built in C# using Microsoft Visual Studio. 
+    It was built from an online tutorial.
+    I made some modifications for score-keeping.
+*/
+
+using System;
 
 //Namespace
 namespace NumberGuesser
